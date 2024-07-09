@@ -10,17 +10,12 @@ Content Management: Effortlessly add, update, and delete blog posts.
 Responsive Design: A sleek and modern interface built with TailwindCSS.
 
 ## Technologies Used
-JavaScript 
-
-ReactJs
-
-Redux-Toolkit
-
-TailwindCSS
-
-Appwrite
-
-TinyMCE
+* JavaScript 
+* ReactJs
+* Redux-Toolkit
+* TailwindCSS
+* Appwrite
+* TinyMCE
 
 ## Getting Started
 Follow these steps to get the application up and running on your local machine.
@@ -28,17 +23,13 @@ Follow these steps to get the application up and running on your local machine.
 Prerequisites
 Ensure you have the following installed:
 
-Node.js
-
-npm (or yarn)
-
-Appwrite server
+* Node.js
+* npm (or yarn)
+* Appwrite server
 
 ## Installation
 
 1- Clone the repository:
-
-
 
 
 ```bash
@@ -55,11 +46,9 @@ npm install
 ```
 3- Set up Appwrite:
 
-->Install and configure the Appwrite server by following the Appwrite installation guide.
-
-->Create a new project in Appwrite and configure the authentication, database, and storage services.
-
-->Update the Appwrite configuration in your application by setting the required environment variables.
+* Install and configure the Appwrite server by following the Appwrite installation guide.
+* Create a new project in Appwrite and configure the authentication, database, and storage services.
+* Update the Appwrite configuration in your application by setting the required environment variables.
 
 4-Run the application:
 
@@ -71,11 +60,9 @@ npm start
 The application will be available at http://localhost:3000.
 
 ## Usage
-Register/Login: Create a new account or log in to access your dashboard.
-
-Create a Post: Use the integrated code editor to create new blog posts.
-
-Manage Posts: Edit or delete your existing posts through the intuitive interface.
+*Register/Login: Create a new account or log in to access your dashboard.
+*Create a Post: Use the integrated code editor to create new blog posts.
+* Manage Posts: Edit or delete your existing posts through the intuitive interface.
 Contributing
 
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, feel free to open an issue or submit a pull request.
