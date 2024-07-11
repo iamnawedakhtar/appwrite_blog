@@ -4,10 +4,10 @@ Welcome to the Blog Application, a fully-fledged platform for creating and manag
 
 ## Features
 
-User Authentication: Secure user authentication powered by Appwrite.
-Comprehensive Code Editor: Integrated TinyMCE editor for a rich content creation experience.
-Content Management: Effortlessly add, update, and delete blog posts.
-Responsive Design: A sleek and modern interface built with TailwindCSS.
+* User Authentication: Secure user authentication powered by Appwrite.
+* Comprehensive Code Editor: Integrated TinyMCE editor for a rich content creation experience.
+* Content Management: Effortlessly add, update, and delete blog posts.
+* Responsive Design: A sleek and modern interface built with TailwindCSS.
 
 ## Technologies Used
 * JavaScript 
